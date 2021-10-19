@@ -8,11 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val afsfdsf =343
-        val fdsfjsdfsd = "sdsdf sdf dsfdfs"
-
         val sdfdsfsd =" dssdfdsf"
 
- 
+        val a =5454334
+        val sdfsdNew =" dfsdfd"
+
     }
 }
